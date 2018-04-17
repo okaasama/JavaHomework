@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
-import java.lang.Math;
+
 
 public class PerfectNum {
     public static void main(String[] args) {
